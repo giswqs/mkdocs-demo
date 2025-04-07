@@ -64,5 +64,7 @@ nav:
   - Chapter 2:
       - chapter_02/colorbar.ipynb
       - chapter_02/heatmap.ipynb
+  - Examples:
+      - splitmap.ipynb
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/mkdocs-demo/issues
