@@ -1,9 +1,9 @@
-site_name: Mkdocs Template
+site_name: Mkdocs Demo
 site_description: A website template for using mkdocs
 site_author: Qiusheng Wu
-site_url: https://giswqs.github.io/mkdocs-template
+site_url: https://giswqs.github.io/mkdocs-demo
 
-repo_url: https://github.com/giswqs/mkdocs-template
+repo_url: https://github.com/giswqs/mkdocs-demo
 
 copyright: "Copyright &copy; 2022 - 2025 Qiusheng Wu"
 
@@ -65,4 +65,4 @@ nav:
       - chapter_02/colorbar.ipynb
       - chapter_02/heatmap.ipynb
   - YouTube Channel: https://youtube.com/@giswqs
-  - Report Issues: https://github.com/giswqs/mkdocs-template/issues
+  - Report Issues: https://github.com/giswqs/mkdocs-demo/issues
